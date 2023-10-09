@@ -4,7 +4,7 @@ This Python package can be used to estimate the model as proposed in the thesis
 **"Unveiling Customer Motivations in Grocery Shopping: A Correlated Topic Model Approach with Variational Inference"** 
 by Hugo Kroonen
 
-Most of the code is based on the following paper:
+Part of the code is based on the following paper:
 >    Bruno Jacobs, Dennis Fok, Bas Donkers,
 >    **"Understanding Large-Scale Dynamic Purchase Behavior"**,
 >    *Marketing Science* (forthcoming)
